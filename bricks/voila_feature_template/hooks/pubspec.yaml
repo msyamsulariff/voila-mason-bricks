@@ -1,0 +1,17 @@
+name: voila_feature_template_hooks
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  mason: ">=0.1.0-dev.52 <0.1.0"
+  dart_style: ^2.0.0
+  dartx: any
+  diff_match_patch: ^0.4.1
+  equatable: ^2.0.0
+  flutter:
+    sdk: flutter
+  hive: any
+  hive_flutter: any
+  intl: any
+  nested: any
